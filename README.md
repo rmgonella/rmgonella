@@ -10,11 +10,11 @@
 
 ---
 
-# 🧠 Sobre mim
+# 🧠 About me
 
-🚀 Desenvolvedor **Fullstack** especializado em sistemas **robustos, escaláveis e com UX moderna**.  
-💡 Forte experiência prática em **PHP, React, Node e arquiteturas MVC**.  
-⚙️ Foco em **performance, clean code e produtos SaaS de alto nível**.  
+🚀 **Full-stack developer** specializing in robust, **scalable systems with modern UX.**.  
+💡 Strong practical experience in PHP, React, Node, and MVC architectures.**.  
+⚙️ Focus on **performance, clean code, and high-level SaaS products.**.  
 
 📍 Niterói — RJ, Brasil  
 🌐 https://techinnovationbr.com.br  
@@ -44,23 +44,23 @@
 ### 📊 Task Dashboard — React + PHP API
 - UI moderna com **Tailwind + Shadcn**  
 - API PHP MVC segura  
-- Autenticação JWT  
-- Atualizações em tempo real  
+- JWT Authentication 
+- Real-time updates 
 
 ---
 
 ### 🧩 PHP Task Manager (MVC)
-- PHP puro estruturado  
-- MySQL  
-- MVC organizado  
-- Código limpo e performático  
+- Pure structured PHP
+- MySQL
+- Organized MVC
+- Clean and performant code 
 
 ---
 
 ### 📦 Angular Product Catalog
-- Angular + Angular Material  
-- Componentização moderna  
-- Routing avançado  
+- Angular + Angular Material
+- Modern componentization
+- Advanced routing
 
 ---
 
@@ -79,10 +79,10 @@
 
 # 🎯 Current Mission
 
-✨ Construindo **produtos SaaS escaláveis**  
-🎨 Elevando padrões de **UX/UI em aplicações web**  
-⚡ Arquiteturas **performáticas em PHP e Node**  
-🌍 Expansão global como **Fullstack Engineer**  
+✨ Building **scalable SaaS products.**
+🎨 Raising **UX/UI standards in web applications.** 
+⚡ **Performative Architectures in PHP and Node** 
+🌍 Global expansion as a **Fullstack Engineer**
 
 ---
 
