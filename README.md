@@ -35,15 +35,15 @@
 ### 🛒 Full E-commerce — React + Node
 - React + Tailwind  
 - Node + Express  
-- Autenticação JWT  
+- JWT Authentication  
 - PostgreSQL  
-- Arquitetura escalável pronta para SaaS  
+- Scalable architecture ready for SaaS
 
 ---
 
 ### 📊 Task Dashboard — React + PHP API
-- UI moderna com **Tailwind + Shadcn**  
-- API PHP MVC segura  
+- Modern UI with **Tailwind + Shadcn**  
+- Secure PHP MVC API 
 - JWT Authentication 
 - Real-time updates 
 
