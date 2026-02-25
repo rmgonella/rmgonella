@@ -25,7 +25,7 @@
 # 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,react,nodejs,angular,js,ts,tailwind,bootstrap,postgres,mysql,git,linux,docker,drupal" />
+  <img src="https://skillicons.dev/icons?i=php,react,nodejs,angular,js,ts,tailwind,bootstrap,postgres,mysql,git,linux,docker,drupal"/>
 </p>
 
 ---
