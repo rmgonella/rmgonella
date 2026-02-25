@@ -26,7 +26,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,react,nodejs,angular,js,ts,tailwind,bootstrap,postgres,mysql,git,linux,docker"/>
-  <img src="https://cdn.simpleicons.org/drupal" height="48"/>
+  <img src="https://cdn.simpleicons.org/drupal/0678BE" height="48"/>
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="48"/>
 </p>
 
 ---
