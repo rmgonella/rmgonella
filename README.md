@@ -18,7 +18,7 @@
 
 📍 Niterói — RJ, Brasil  
 🌐 https://techinnovationbr.com.br  
-💼 https://www.linkedin.com/in/rodrigo-marchi-gonella-93bb56232  
+💼 https://www.linkedin.com/in/rodrigo-m-gonella/ 
 
 ---
 
