@@ -94,7 +94,7 @@
   <a href="https://techinnovationbr.com.br">
     <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/rodrigo-marchi-gonella-93bb56232">
+  <a href="https://www.linkedin.com/in/rodrigo-m-gonella/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/rmgonella">
